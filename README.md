@@ -51,13 +51,13 @@ bun_notes/
 Open terminal and run:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/zhann1982/bun_notes.git
 ```
 
 ### 2. Go into the project folder
 
 ```bash
-cd YOUR_REPO
+cd bun_notes
 ```
 
 ### 3. Install dependencies
@@ -224,4 +224,4 @@ bun add -d @types/bun @types/bcrypt
 
 ## Author
 
-Built as a Bun full-stack notes project with authentication, sessions, and SQLite.
+Seitzhanov Zhanibek, created with the help of ChatGPT
